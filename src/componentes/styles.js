@@ -29,6 +29,13 @@ const styles = StyleSheet.create({
     },
     titulo:{
       fontSize:24
+    },
+    caixaTexto:{
+      borderWidth:1,
+      
+
+
     }
+
   });
 export default styles;

@@ -9,7 +9,10 @@
   "dependencies": {
     "react": "16.6.1",
     "react-native": "0.57.5",
+    "react-native-audio": "^4.2.2",
     "react-native-gesture-handler": "^1.0.9",
+    "react-native-sound": "^0.10.9",
+    "react-native-sqlite-storage": "^3.3.9",
     "react-navigation": "^3.0.0"
   },
   "devDependencies": {
